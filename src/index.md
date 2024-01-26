@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Toto Tutu"
-  text: "Training report"
+  name: "Bezonskovych Dmytro"
+  text: "My skills report"
   tagline: "The training report outlines all the skills acquired during the CFC of computer scientist applications development."
   actions:
     - theme: brand
