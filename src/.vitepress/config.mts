@@ -4,21 +4,29 @@ import { defineConfig } from 'vitepress'
 const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [
+    { text: 'Rust', link: '/languages/rust'},
+    { text: 'HTML et CSS', link: '/languages/html-css'},
+    { text: 'Java', link: '/languages/java'},
     { text: 'JavaScript', link: '/languages/javascript'},
   ]},
   { text: 'Projects', items: [
-    { text: 'Rust todo list', link: '/projects/rust-todo'},
+    { text: 'Todo list', link: '/projects/rust-todo'},
+    { text: 'Site statique', link: '/projects/site-statique'},
+    { text: 'TicTacToe', link: '/projects/java-tictactoe'},
+    { text: 'Client Mockup', link: '/projects/client-mockup'},
+    { text: 'Grade Calculator', link: '/projects/grade-calculator'},
+    { text: 'Time Tracking', link: '/projects/time-tracking-cmd'},
   ]},
 ]
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // Update your title and description with user name
-  title: "My Progress Report - Toto",
-  description: "The training report outlines all the skills acquired during the CFC of computer scientist applications development.",
+  title: "Beznoskovych Dmytro",
+  description: "My report outlines all the skills acquired during the CFC of computer scientist applications development.",
   cleanUrls: true,
   lang: 'en',
-  base: "/progress-report/",
+  base: "/report/",
   lastUpdated: true,
   
   themeConfig: {
@@ -46,13 +54,13 @@ export default defineConfig({
 
     socialLinks: [
       // Replace link with yor own GitHub repo or github profile
-      { icon: 'github', link: 'https://github.com/jobtrek/progress-report' }
+      { icon: 'github', link: 'https://github.com/dbeznos2' }
     ],
 
     editLink: {
       // Change first part of path to your repo name
-      pattern: 'https://github.com/jobtrek/progress-report/edit/main/src/:path',
-      text: 'Edit this page on GitHub'
+      pattern: 'https://github.com/jobtrek/report/edit/main/src/:path',
+      text: 'report'
     }
   }
 })

@@ -11,8 +11,8 @@ hero:
       text: Introduction
       link: /introduction
     - theme: alt
-      text: Github repo
-      link: https://github.com/jobtrek/progress-report
+      text: Github report
+      link: https://github.com/dbeznos2/report
 
 features:
   - title: My projects
@@ -21,7 +21,6 @@ features:
     linkText: See my projects
   - title: Programming languages
     details: Programming languages I have worked with.
-    link: /languages/javascript
+    link: /languages/rust
     linkText: See learned languages
 ---
-

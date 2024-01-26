@@ -1,1 +1,1 @@
-# Rust todo list <Badge type="tip" text="Rust" />
+# Rust todo list 
