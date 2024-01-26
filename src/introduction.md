@@ -1,3 +1,3 @@
 # Introduction
 
-I'm Dmytro
+### Hello, I'm Dmytro, a 17-year-old apprentice at Jobtrek, where I am honing my coding skills and delving into the world of software development. Specializing primarily in frontend development, I immerse myself in JavaScript, HTML, CSS, and frameworks like React to craft captivating user experiences. Through this skills report, I aim to showcase my projects, offering insights into their creation, functionality, and the journey of learning and growth they represent. Join me as I unveil the fruits of my labor and illustrate the magic behind each project's workings. 

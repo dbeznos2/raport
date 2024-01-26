@@ -1,1 +1,3 @@
 # Grade Calculator
+
+**Welcome to my "Grade Calculator" project, where users can conveniently compute their grade averages with a sleek web interface tailored for each subject. By adding multiple semesters for each branch and inputting grades, users can swiftly determine the average for each subject. This project served as a pivotal learning experience, guiding me through the fundamentals of JavaScript, DOM interaction, and dynamic element creation. Join me on this journey as I showcase the intricacies of my project and its role in expanding my skill set.**

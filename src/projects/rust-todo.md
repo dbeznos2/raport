@@ -6,11 +6,12 @@ This todo list coded in Rust and it runs from command line. What you can do is b
 ## Interface
 ![](../images/todo-looks.png)
 
+<br/> 
+
+This project allowed me to learn basics of Rust, and to try to use them to create something. Interface and waht is behind it is veyr simple, but todo list is so usefull and easy to use at the same time.
 
 
 
 
 
-
-
-[Repository GitHub](https://github.com/dbeznos2/report)
+You can see the code in my [Repository GitHub](https://github.com/dbeznos2/report).
