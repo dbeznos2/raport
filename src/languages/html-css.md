@@ -1,4 +1,4 @@
-![](/home/dmytro/jobtrek/raport/src/images/html_css.png)
+![](../images/html_css.png)
 <br />
 
 **HTML** - language that is used to define the structure of a web page, it's the basic building block of a website. See more in the [documentation](https://www.w3schools.com/html/html_css.asp).
@@ -43,16 +43,16 @@ h1 {
 <br />
 <br />
 
-# Who use HMTL and CSS
+## Who use HMTL and CSS
 
 **- Every organisation, to build their website**
 
 <br />
 
-# My projects in HTML and CSS
+## My projects in HTML and CSS
 
-- [Static website ](/home/dmytro/jobtrek/raport/src/projects/site-statique.md)
-- [Client's mockup](/home/dmytro/jobtrek/raport/src/projects/client-mockup.md)
+- [Static website](../projects/site-statique.md)
+- [Client's mockup](../projects/client-mockup.md)
 
 
 

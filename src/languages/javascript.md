@@ -1,4 +1,4 @@
-![](/home/dmytro/jobtrek/raport/src/images/javascript-logo.png)
+![](../images/javascript-logo.png)
 <br />
 
 **JavaScript** - used for web development and game development, allows you to implement dynamic features on web pages. It is used with HTML and CSS. JavaScript, serving as a cornerstone technology of the web, it plays an important role in today's digital experiences. See more in their [documentation](https://dev.java/).
@@ -19,7 +19,7 @@ if (name !== null && name !== "") {
 <br />
 <br />
  
-# Who uses JS
+## Who uses JS
 
 - Apple
 - LinkedIn
@@ -30,8 +30,8 @@ if (name !== null && name !== "") {
 <br />
 <br />
 
-# My projects in JS
+## My projects in JS
 
-- [Grade calculator](/home/dmytro/jobtrek/raport/src/projects/grade-calculator.md)
+- [Grade calculator](../projects/grade-calculator.md)
 
 

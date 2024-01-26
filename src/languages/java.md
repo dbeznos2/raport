@@ -1,4 +1,4 @@
-![](/home/dmytro/jobtrek/raport/src/images/Java-Logo.png)
+![](../images/Java-Logo.png)
 <br />
 
 **JAVA** -  one of the most popular and widely used programming languages language for coding web applications. Java is platform independent, programs are compiled into an intermediate representation called bytecode, which can run on any system with a Java Virtual Machine. See more in their [documentation](https://dev.java/).
@@ -28,7 +28,7 @@ public class MathOp {
 <br />
 <br />
  
-# Who use JAVA
+## Who use JAVA
 
 - Twitter
 - Netflix
@@ -39,8 +39,8 @@ public class MathOp {
 <br />
 <br />
 
-# My projects in JAVA
+## My projects in JAVA
 
-- [TicTacToe](/home/dmytro/jobtrek/raport/src/projects/java-tictactoe.md)
-- [Time Tracking](/home/dmytro/jobtrek/raport/src/projects/time-tracking-cmd.md)
+- [TicTacToe](../projects/java-tictactoe.md)
+- [Time Tracking](../projects/time-tracking-cmd.md)
 

@@ -4,7 +4,7 @@ This todo list coded in Rust and it runs from command line. What you can do is b
 
 
 ## Interface
-![](/home/dmytro/jobtrek/raport/src/images/todo-looks.png)
+![](../images/todo-looks.png)
 
 
 
