@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Bezonskovych Dmytro"
+  name: "Beznoskovych Dmytro"
   text: "My skills report"
   tagline: "The training report outlines all the skills acquired during the CFC of computer scientist applications development."
   actions:
