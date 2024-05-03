@@ -16,7 +16,10 @@ const links = [
     { text: 'Client Mockup', link: '/projects/client-mockup'},
     { text: 'Grade Calculator', link: '/projects/grade-calculator'},
     { text: 'Time Tracking', link: '/projects/time-tracking-cmd'},
-  ]},
+      { text: 'Ascencio', link: '/projects/ascencio'},
+
+
+    ]},
 ]
 
 // https://vitepress.dev/reference/site-config
